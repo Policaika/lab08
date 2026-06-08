@@ -406,7 +406,8 @@ d1e8f0918712   mysql:8.4   "docker-entrypoint.s…"   37 minutes ago   Up 37 min
 
 ## 4. Проверьте работу приложения через браузер.
 
-![Локалка](https://www.stom-firms.ru/p_a2_customImageUploader_imageViewer?img=NjFfMjNlNjBkYjhkZWZmZjI0M2RkMGI3YzljOTQ5ZDU4ZTc=)
+<img width="601" height="369" alt="image" src="https://github.com/user-attachments/assets/112b9295-bc9b-4c5d-86ce-b8245cd58b98" />
+
 
 Так же можно проверить работу через curl:
 
